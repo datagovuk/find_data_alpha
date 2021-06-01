@@ -16,5 +16,5 @@ pyparsing==2.1.10
 python-dateutil==2.6.0
 requests==2.12.4
 six==1.10.0
-urllib3==1.20
+urllib3==1.26.5
 whitenoise==3.2.3
